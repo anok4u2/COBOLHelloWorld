@@ -9,7 +9,9 @@
       *
       *procedure division.
        
-           display "Hello COBOL World !"
+           perform 10 times
+               display "Hello COBOL World !"
+           end-perform
 
       *    goback.
       *
