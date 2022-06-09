@@ -9,7 +9,7 @@
       *
       *procedure division.
        
-           perform 20 times
+           perform 30 times
                display "Hello COBOL World !"
            end-perform
 
